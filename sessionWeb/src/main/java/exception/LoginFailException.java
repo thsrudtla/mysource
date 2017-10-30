@@ -6,5 +6,6 @@ public class LoginFailException extends Exception{
 	public LoginFailException(String failMessage) {
 		super(failMessage);
 	}
+	
 
 }
